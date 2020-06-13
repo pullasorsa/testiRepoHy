@@ -1,1 +1,3 @@
 tarina.txt
+
+muutos 1
